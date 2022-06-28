@@ -1,6 +1,6 @@
 // ----------------------------------------------------------------
 //  4 Wins f�r Casio FX-9860G2 Ver 1.00
-// Author: Fabian Schuster
+// Author: Schrankian
 
 //Librarys
 
